@@ -9,9 +9,5 @@ The tasks in this project are as follows:
     * Gathering data
     * Assessing data
     * Cleaning data
-* Storing, analyzing, and visualizing your wrangled data
-* Reporting on 1) your data wrangling efforts and 2) your data analyses and visualizations
-
-Data
-----
-WeRateDogs Twitter archive
+* Storing, analyzing, and visualizing the wrangled data
+* Reporting on 1) data wrangling efforts and 2) data analyses and visualizations.

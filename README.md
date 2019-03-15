@@ -1,4 +1,4 @@
-Udacity - Project 7: Wrangle and Analyze Data
+Udacity - Project 5: Wrangle and Analyze Data
 =============================================
 
 Project Details
